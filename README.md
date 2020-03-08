@@ -436,8 +436,8 @@ returns 404 if game doesn't exist
 
 
 
-### Potman projet
+### Postman projet
 
-You can download a postman project with all call
+You can download a postman project with all calls
 
 https://www.getpostman.com/collections/c85c78f7730f6ce86c60 or use file GameAPI.postman_collection.json 
